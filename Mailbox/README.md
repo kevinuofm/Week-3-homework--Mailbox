@@ -34,7 +34,7 @@ Did this homework on my honeymoon. Could not find assets for the compose view fo
 
 Walkthrough of all user stories:
 
-![Video Walkthrough](Finished_MailBox_KZhu.gif)
+![Video Walkthrough](Finished MailBox KZhu.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
